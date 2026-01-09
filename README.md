@@ -38,7 +38,7 @@ In this project, Microsoft Azure Management Groups is used to support governance
 <br/><br/><br/>
 
 </div>
-  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Open: Microsoft Entra ID from https://portal.azure.com</b></span>  
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Open: Microsoft Azure from https://portal.azure.com</b></span>  
 <br/><br/>
 
 <table>

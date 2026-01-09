@@ -68,3 +68,28 @@ In this project, Microsoft Entra ID is used to support governance and access con
 </table>
 
 <br /><br />
+
+
+</div>
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>On the Management groups webpage, Click: Create (top-middle).</b></span>  
+<br/><br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/MyRqQFy.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/cIKmYYz.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/5GL2Ulk.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<br /><br />

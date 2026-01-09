@@ -1,11 +1,11 @@
-<h1>Microsoft Azure Management Group – How To Create A Management Group</h1>
+<h1>Microsoft Azure Management Groups – How To Create A Management Group</h1>
 
 
 <h2 style="font-family: Arial, sans-serif; font-size: 20px; font-weight: bold; margin-top: 24px; margin-bottom: 12px;">
 ⏹️ Description</h2>
 
 <p style="font-family: Georgia, serif; font-size: 16px; margin-top: 12px; margin-bottom: 12px;">
-In this project, Microsoft Entra ID is used to support governance and access control across multiple Azure subscriptions within a single tenant by establishing a structured management hierarchy.  You will create an Azure Management Group to organize subscriptions and enable centralized application of policies and role-based access control. You will access Microsoft Entra ID through the Azure portal, locate the Management groups service using the global search bar, and initiate the creation process. You will define a management group ID and display name, submit the configuration, and refresh the interface if necessary to confirm successful creation. The management group will be created and visible within the Entra ID hierarchy, providing a foundational structure for managing subscriptions and applying governance controls consistently across the environment.
+In this project, Microsoft Azure Management Groups is used to support governance and access control across multiple Azure subscriptions within a single tenant by establishing a structured management hierarchy.  You will create an Azure Management Group to organize subscriptions and enable centralized application of policies and role-based access control. You will access Management groups through the Azure portal, locate the Management groups service using the global search bar, and initiate the creation process. You will define a management group ID and display name, submit the configuration, and refresh the interface to confirm successful creation. The management group will be created and visible, providing a foundational structure for managing subscriptions and applying governance controls consistently across the environment.
 </b>
 
 
@@ -15,7 +15,7 @@ In this project, Microsoft Entra ID is used to support governance and access con
   
 <p style="font-family: Georgia, serif; font-size: 16px; margin-top: 12px; margin-bottom: 12px;">
  
- - <b>Microsoft Azure, Microsoft Entra ID</b>
+ - <b>Microsoft Azure, Management groups</b>
 
 
 
